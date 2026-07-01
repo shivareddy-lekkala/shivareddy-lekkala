@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋 I'm Lekkala Venkata Samba Siva Reddy
 
-<!--
-**shivareddy-lekkala/shivareddy-lekkala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst passionate about transforming raw data into meaningful business insights.
 
-Here are some ideas to get you started:
+📊 Skilled in SQL, Python, Power BI, Excel, and Data Visualization with hands-on experience in building analytical dashboards and performing exploratory data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects:
+- 🏦 Bank Customer Churn Analysis
+- 🛒 Superstore Retail Sales Analysis
+
+💡 I enjoy uncovering patterns in data and building dashboards that support business decisions.
+
+🌱 Currently expanding my expertise in analytics, business intelligence, and data storytelling.
+
+📫 Open to opportunities in:
+- Data Analyst
+- Business Analyst
+- Finance Analyst
+
+## 🛠️ Tech Stack
+SQL • Python • Power BI • Excel • Pandas • NumPy • Matplotlib • Seaborn
+
+## 📈 Current Focus
+- Building real-world analytics projects
+- Strengthening SQL and Power BI expertise
+- Developing business-focused analytical solutions
